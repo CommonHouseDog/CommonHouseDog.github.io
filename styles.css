@@ -1,0 +1,99 @@
+.list {
+  font-size: 14;
+  font-weight: 400;
+  font-family: "'Times New Roman";
+}
+
+.h1 {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: Orbitron;
+}
+
+.h2 {
+  font-weight: 500;
+  font-size: 20px;
+  font-family: Merriweather;
+}
+
+.p {
+  font-weight: 400;
+  font-size: 16px;
+  font-family: 'Times New Roman';
+}
+
+.container {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 10px;
+}
+
+.blue {
+  background-color: #51f1e3;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.pink {
+  background-color: #fe42ad;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.orange {
+  background-color: #ff6437;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.dark-orange {
+  background-color: #ff0414;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.yellow {
+  background-color: #ffd761;
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+.Times-New-Roman {
+  font-family: "Times New Roman", serif;
+}
+
+.Orbitron {
+  font-family: Orbitron, 'Times New Roman', serif;
+}
+
+.Merriweather {
+  font-family: Merriweather, 'Times New Roman', serif;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.title {
+  display: inline;
+}
+
+a {
+  display: inline;
+  padding: 10px 20px;
+  color: #ff6437;
+  font-size: 20px;
+}
+
+a:hover {
+  color: #51f1e3;
+}
+
+h1 {
+  display: inline;
+  font-family: Orbitron;
+}
